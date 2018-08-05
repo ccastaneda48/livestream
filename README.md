@@ -8,6 +8,8 @@ Livestream Project: https://livestream-a7fc0.firebaseapp.com/
 
 -Slack
 
+-Firebase
+
 ## Installations:
 
 **-GitKraken**
