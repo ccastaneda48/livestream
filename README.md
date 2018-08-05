@@ -1,6 +1,6 @@
 Livestream Project: https://livestream-a7fc0.firebaseapp.com/
 --------------
-## Softwares:
+## Softwares & Technologies:
 
 -GitHub
 
